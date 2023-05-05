@@ -1,4 +1,4 @@
-# ![Banner](https://github.com/Fluffy-Banana/devrepo/blob/3d8fc2ccf398a52e1a99e9f3d04fef9faef88888/banner-gamesgames.png)
+# ![Banner](https://github.com/Fluffy-Banana/gamesgames/images/banner-gamesgames.png)
 
 [GamesGames](https://fluffy-banana.github.io/gamesgames/) is a clean and simple website for old and new games, html or flash, we'll probably have it!
 
